@@ -14,14 +14,15 @@ In the case of missing data, I simply generated randomized data that continued t
 
 ### 2. Solving ODE system:
 
-### 3. Fitting data: The Paper states that the estimation of k5 has the lower confidence, its estimated value is farther from its true value than other parameters. This situation is reflected in the results obtained with Julia, where the estimate is even less accurate. Perhaps because of the noise introduced in the digitization of the data.
+### 3. Fitting data:
+The Paper states that the estimation of k5 has the lower confidence, its estimated value is farther from its true value than other parameters. This situation is reflected in the results obtained with Julia, where the estimate is even less accurate. Perhaps because of the noise introduced in the digitization of the data.
 
 <img src="Project%202/results/digitized_data.png" width="500">
 
-4. Bifurcation analysis:
+### 4. Bifurcation analysis:
 
 <img src="Project%202/results/k5_bifurcation_analysis.png" width="500">
 
-5. Sensitivity analysis:
+### 5. Sensitivity analysis:
 
 <img src="Project%202/results/global_parametric_sensitivity.png" width="500">
