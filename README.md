@@ -1,7 +1,9 @@
 # Che_Math
 This repository was created to collect all the coded-related homework and projects developed within the course $Mathematical$ $Methods$ $in$ $Chemical$ $Engineering$ from the Chemical and Petroleum Engineering Department at the University of Pittsburgh. The programming languages used for this purpose are Julia and Python.
 
-## Project 2: Kinetic parameter estimation from experimental dataset using Julia
+## Project 2: Kinetic Parameter Estimation from Experimental Dataset using Julia
+
+Introducing KIPET : A novel open-source software package for kinetic parameter estimation from experimental datasets including spectra
 
 ### 1. Plotting data:
 
@@ -26,3 +28,6 @@ The Paper states that the estimation of k5 has the lower confidence, its estimat
 ### 5. Sensitivity analysis:
 
 <img src="Project%202/results/global_parametric_sensitivity.png" width="500">
+
+## References
+[1] Schenk, C., Short, M., Rodriguez, J. S., Thierry, D., Biegler, L. T., García-Muñoz, S., & Chen, W. (2020). Introducing KIPET: A novel open-source software package for kinetic parameter estimation from experimental datasets including spectra. Computers & Chemical Engineering, 134, 106716.
