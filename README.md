@@ -22,4 +22,4 @@ In the case of missing data, I simply generated randomized data that continued t
 The Paper states that the estimation of k5 has the lower confidence, its estimated value is farther from its true value than other parameters. This situation is reflected in the results obtained with Julia, where the estimate is even less accurate. Perhaps because of the noise introduced in the digitization of the data.
 
 
-![](results/digitized_data.png)
+![](Project%202/results/digitized_data.png)
