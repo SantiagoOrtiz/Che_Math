@@ -14,7 +14,7 @@ During the process of recovering data using WebPlotDigitizer, some limitations w
 
 Together these three factors generate additional noise, which leads to slightly different results when fitting the parameters. Nevertheless, despite these limitations, the tool extracted the information with some additional noise, in some cases more than others. It is fair to say that all species follow the original trajectory.
 
-<img src="Project%202/results/digitized_data.png" width="500">
+<img src="Project%202/results/digitized_data.png" width="300">
 
 As shown in the figure, some random points were generated to replace the missing data, following the previous trend and with the same number of points as the other curves.
 
